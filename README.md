@@ -1,4 +1,3 @@
-### Hola, soy Facundo👋
 <div align="center">
 <h1 align="center"> Hola, soy Facundo👋</h1>
   </div>
