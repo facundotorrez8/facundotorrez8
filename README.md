@@ -1,5 +1,8 @@
 ### Hola, soy Facundo👋
-
+<div align="center">
+<h1 align="center"> Hola, soy Facundo👋</h1>
+  </div>
+<img src="https://www.fundaciontelefonica.com/wp-content/uploads/2022/09/portada-dia-programador-2560x950-1.jpg">
 <!--
 **facundotorrez8/facundotorrez8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
